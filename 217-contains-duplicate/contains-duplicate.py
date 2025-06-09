@@ -11,5 +11,3 @@ class Solution:
                #true false return
                 singles.add(num)
         return False
-
-     
