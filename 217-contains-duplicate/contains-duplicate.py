@@ -8,6 +8,5 @@ class Solution:
             if num in singles:
                 return True
             else:
-               #true false return
                 singles.add(num)
         return False
